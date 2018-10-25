@@ -1,2 +1,1 @@
-# Power-Project
-Project Monitoring
+# Power Project
